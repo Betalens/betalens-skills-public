@@ -1,0 +1,10 @@
+.env
+.env.*
+*.env
+*.sqlite
+*.sqlite3
+*.db
+runtime/
+reports/
+__pycache__/
+*.py[cod]
